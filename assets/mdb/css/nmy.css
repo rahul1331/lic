@@ -1,0 +1,73 @@
+#nav_heading{
+	    font-size: 17px;
+    font-weight: bold;
+}
+#anil:hover{
+	
+	color: white !important;
+}
+#anilfont:hover{
+	font-size: 28px !important;
+font-weight: bold;
+}
+a:hover{
+	max-width: 120px;
+	
+	color: white  !important;
+	border-radius: 9%;
+	text-decoration: none;
+}
+#font:hover{
+	color: white !important;
+font-size: 20px;
+font-weight: bold;
+}
+/*''''''*/
+..map-container{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+#footer{
+	background-color: #0091ea !important;margin-top: 60px;
+}
+#footer_font{
+	font-size: 17px;
+	}
+#Rahul:hover{
+	background-color: black;
+	color: black !important;
+	border-radius: 9%;
+	text-decoration: underline;
+}	
+#rahulfont:hover{
+font-size: 17px;
+font-weight: bold;
+color: white;
+}
+
+========
+
+.gallery{
+	margin: 10px 50px;
+}
+.gallery img{
+	width: 290px;
+	padding: 15px;
+	filter: grayscale(100%);
+	transition: 1s;
+}
+.gallery img:hover{
+	filter: grayscale(0);
+	transform: scale(1,1);
+}
+======
